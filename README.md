@@ -19,7 +19,7 @@ It allows users to track income and expenses, view summaries, and perform CRUD o
 ## Setup Instructions
 1. Clone repo
 2. Install dependencies:
-   pip install -r requirements.txt
+   pip install fastapi uvicorn sqlalchemy pydantic passlib[bcrypt]
 
 3. Run server:
    python -m uvicorn main:app --reload
