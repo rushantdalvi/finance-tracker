@@ -1,4 +1,3 @@
-"""
 # Finance Tracker Backend (FastAPI)
 
 ## Overview
@@ -44,4 +43,4 @@ It allows users to track income and expenses, view summaries, and perform CRUD o
 - Filtering & pagination
 - Unit tests
 
-"""
+
